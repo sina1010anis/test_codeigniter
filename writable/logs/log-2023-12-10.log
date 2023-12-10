@@ -130,3 +130,54 @@ in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
 10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
 11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
 12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+ERROR - 2023-12-10 07:10:41 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 2 in D:\laragon\www\code\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\laragon\www\code\system\Database\MySQLi\Connection.php(306): mysqli->query('ALTER TABLE `pr...', 0)
+#1 D:\laragon\www\code\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('ALTER TABLE `pr...')
+#2 D:\laragon\www\code\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('ALTER TABLE `pr...')
+#3 D:\laragon\www\code\system\Database\Forge.php(745): CodeIgniter\Database\BaseConnection->query('ALTER TABLE `pr...')
+#4 D:\laragon\www\code\app\Database\Migrations\2023-12-10-070946_AddDescToProduct.php(11): CodeIgniter\Database\Forge->addColumn('products', Array)
+#5 D:\laragon\www\code\system\Database\MigrationRunner.php(873): App\Database\Migrations\AddDescToProduct->up()
+#6 D:\laragon\www\code\system\Database\MigrationRunner.php(188): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 D:\laragon\www\code\system\Commands\Database\Migrate.php(84): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 D:\laragon\www\code\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 D:\laragon\www\code\system\CLI\Console.php(46): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 D:\laragon\www\code\spark(102): CodeIgniter\CLI\Console->run()
+#11 {main}
+ERROR - 2023-12-10 07:11:26 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 2 in D:\laragon\www\code\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\laragon\www\code\system\Database\MySQLi\Connection.php(306): mysqli->query('ALTER TABLE `pr...', 0)
+#1 D:\laragon\www\code\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('ALTER TABLE `pr...')
+#2 D:\laragon\www\code\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('ALTER TABLE `pr...')
+#3 D:\laragon\www\code\system\Database\Forge.php(745): CodeIgniter\Database\BaseConnection->query('ALTER TABLE `pr...')
+#4 D:\laragon\www\code\app\Database\Migrations\2023-12-10-070946_AddDescToProduct.php(11): CodeIgniter\Database\Forge->addColumn('products', Array)
+#5 D:\laragon\www\code\system\Database\MigrationRunner.php(873): App\Database\Migrations\AddDescToProduct->up()
+#6 D:\laragon\www\code\system\Database\MigrationRunner.php(188): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 D:\laragon\www\code\system\Commands\Database\Migrate.php(84): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 D:\laragon\www\code\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 D:\laragon\www\code\system\CLI\Console.php(46): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 D:\laragon\www\code\spark(102): CodeIgniter\CLI\Console->run()
+#11 {main}
+CRITICAL - 2023-12-10 07:25:12 --> Call to undefined method App\Models\Products::all
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\Task.php(14): CodeIgniter\Model->__call('all', [])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Task->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Task))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+CRITICAL - 2023-12-10 07:25:27 --> Call to undefined method App\Models\Products::findAll
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\Task.php(14): CodeIgniter\Model->__call('findAll', [])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Task->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Task))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+CRITICAL - 2023-12-10 15:53:56 --> Too few arguments to function App\Controllers\Task::index(), 0 passed in D:\laragon\www\code\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Task.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Task->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Task))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
