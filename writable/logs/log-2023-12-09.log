@@ -1,0 +1,82 @@
+CRITICAL - 2023-12-09 16:28:11 --> Too few arguments to function App\Controllers\Hello::getData(), 0 passed in D:\laragon\www\code\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Hello.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Hello->getData()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+CRITICAL - 2023-12-09 16:28:12 --> Too few arguments to function App\Controllers\Hello::getData(), 0 passed in D:\laragon\www\code\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Hello.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Hello->getData()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+CRITICAL - 2023-12-09 16:28:12 --> Too few arguments to function App\Controllers\Hello::getData(), 0 passed in D:\laragon\www\code\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Hello.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Hello->getData()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+CRITICAL - 2023-12-09 16:29:07 --> Call to undefined function App\Controllers\dump()
+in APPPATH\Controllers\Hello.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Hello->getData()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+CRITICAL - 2023-12-09 16:29:07 --> Call to undefined function App\Controllers\dump()
+in APPPATH\Controllers\Hello.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Hello->getData()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+CRITICAL - 2023-12-09 16:29:08 --> Call to undefined function App\Controllers\dump()
+in APPPATH\Controllers\Hello.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Hello->getData()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+CRITICAL - 2023-12-09 16:58:49 --> Invalid file: "helloo.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('helloo.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('helloo', [], true)
+ 3 APPPATH\Controllers\Hello.php(16): view('helloo')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Hello->getData()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+CRITICAL - 2023-12-09 16:59:00 --> Invalid file: "helloo.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('helloo.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('helloo', [], true)
+ 3 APPPATH\Controllers\Hello.php(16): view('helloo')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Hello->getData()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+CRITICAL - 2023-12-09 17:08:34 --> Invalid file: "helloo.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('helloo.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('helloo', [], true)
+ 3 APPPATH\Controllers\Hello.php(16): view('helloo')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Hello->getData()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+CRITICAL - 2023-12-09 17:09:13 --> Invalid file: "hello.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('hello.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('hello', [], true)
+ 3 APPPATH\Controllers\Hello.php(16): view('hello')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Hello->getData()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
