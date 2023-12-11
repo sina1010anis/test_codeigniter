@@ -6,9 +6,10 @@
 
     <h1>OOOOPSSSS...!</h1>
 
-    <?php foreach($tasks as $task){ ?>
-        <p><?= $task ?></p>
+    <?php foreach($tasks as $key => $val){ ?>
+        <p><?= $key .' => ' . $val ?></p>
     <?php } ?>
+    <a href="/task/edit/<?= $tasks['id'] ?>">Edit</a>
 
 <?= $this->endSection() ?>
 
