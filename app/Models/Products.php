@@ -8,6 +8,9 @@ class Products extends Model
 
     protected $allowedFields = ['name', 'price', 'desc'];
 
+    protected $returnType = 'App\Entities\Task';
+
+    protected $useTimestamps = true;
     protected $validationRules = [
         'name' => 'required',
         'price' => 'required',

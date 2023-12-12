@@ -4,6 +4,7 @@ namespace App\Controllers;
 
 use App\Models\Products;
 use CodeIgniter\Controller;
+use CodeIgniter\Exceptions\PageNotFoundException;
 use \Config\Services;
 
 class Task extends Controller 
@@ -12,6 +13,9 @@ class Task extends Controller
     {
         $products = new Products();
         $p = $products->find($id);
+        if ($p == null) {
+            throw new PageNotFoundException("Ops ID => $id Not Found");
+        }
         // $model = new Products();
         // $tasks = ['item 1', 'item 2', 'item 3'];
         // echo '<pre>';
@@ -27,20 +31,12 @@ class Task extends Controller
 
     public function newTask()
     {
-        $name = \Config\Services::request()->getVar('name');
-        $price = \Config\Services::request()->getVar('price');
-        $desc = \Config\Services::request()->getVar('desc');
         $products = new Products();
-        $res = $products->insert([
-            'name' => $name,
-            'price' => $price,
-            'desc' => $desc
-        ]);
-
-        if ($res == false) {
-            return redirect()->back()->with('error', $products->errors());
-        } else {
+        $e = new \App\Entities\Task(Services::request()->getVar());
+        if ($products->insert($e)) {
             return redirect()->back()->with('ok', 'ok');
+        } else {
+            return redirect()->back()->with('error', $products->errors());
         }
     }
 
