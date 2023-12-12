@@ -12,5 +12,8 @@ $routes->get('/task', [Task::class, 'pageNew']);
 $routes->post('/task', [Task::class, 'newTask']);
 $routes->get('/task/edit/(:num)', [Task::class, 'editTask']);
 $routes->post('/task/edit/(:num)', [Task::class, 'editTaskPost']);
+$routes->get('/register', [Task::class, 'registerPage']);
+$routes->post('/register', [Task::class, 'registerMethod']);
+$routes->get('/login', [Task::class, 'loginPage']);
 
 

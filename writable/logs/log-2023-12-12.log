@@ -101,3 +101,227 @@ INFO - 2023-12-12 08:04:51 --> Session: Class initialized using 'CodeIgniter\Ses
 INFO - 2023-12-12 08:05:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
 INFO - 2023-12-12 08:05:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
 INFO - 2023-12-12 08:05:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-12-12 16:24:02 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NOT NULL,
+	`password` VARCHAR NOT NULL,
+	`created_at` TIMESTAMP NOT NULL,
+	`upda' at line 4 in D:\laragon\www\code\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\laragon\www\code\system\Database\MySQLi\Connection.php(306): mysqli->query('CREATE TABLE `u...', 0)
+#1 D:\laragon\www\code\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `u...')
+#2 D:\laragon\www\code\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `u...')
+#3 D:\laragon\www\code\system\Database\Forge.php(546): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `u...')
+#4 D:\laragon\www\code\app\Database\Migrations\2023-12-12-162356_Users.php(34): CodeIgniter\Database\Forge->createTable('users')
+#5 D:\laragon\www\code\system\Database\MigrationRunner.php(873): App\Database\Migrations\Users->up()
+#6 D:\laragon\www\code\system\Database\MigrationRunner.php(188): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 D:\laragon\www\code\system\Commands\Database\Migrate.php(84): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 D:\laragon\www\code\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 D:\laragon\www\code\system\CLI\Console.php(46): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 D:\laragon\www\code\spark(102): CodeIgniter\CLI\Console->run()
+#11 {main}
+ERROR - 2023-12-12 16:24:30 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NOT NULL,
+	`password` VARCHAR NOT NULL,
+	`created_at` TIMESTAMP NOT NULL,
+	`upda' at line 4 in D:\laragon\www\code\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\laragon\www\code\system\Database\MySQLi\Connection.php(306): mysqli->query('CREATE TABLE `u...', 0)
+#1 D:\laragon\www\code\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `u...')
+#2 D:\laragon\www\code\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `u...')
+#3 D:\laragon\www\code\system\Database\Forge.php(546): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `u...')
+#4 D:\laragon\www\code\app\Database\Migrations\2023-12-12-161622_Users.php(34): CodeIgniter\Database\Forge->createTable('users')
+#5 D:\laragon\www\code\system\Database\MigrationRunner.php(873): App\Database\Migrations\Users->up()
+#6 D:\laragon\www\code\system\Database\MigrationRunner.php(188): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 D:\laragon\www\code\system\Commands\Database\Migrate.php(84): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 D:\laragon\www\code\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 D:\laragon\www\code\system\CLI\Console.php(46): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 D:\laragon\www\code\spark(102): CodeIgniter\CLI\Console->run()
+#11 {main}
+ERROR - 2023-12-12 16:24:38 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NOT NULL,
+	`password` VARCHAR NOT NULL,
+	`created_at` TIMESTAMP NOT NULL,
+	`upda' at line 4 in D:\laragon\www\code\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\laragon\www\code\system\Database\MySQLi\Connection.php(306): mysqli->query('CREATE TABLE `u...', 0)
+#1 D:\laragon\www\code\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `u...')
+#2 D:\laragon\www\code\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `u...')
+#3 D:\laragon\www\code\system\Database\Forge.php(546): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `u...')
+#4 D:\laragon\www\code\app\Database\Migrations\2023-12-12-162356_Users.php(34): CodeIgniter\Database\Forge->createTable('users')
+#5 D:\laragon\www\code\system\Database\MigrationRunner.php(873): App\Database\Migrations\Users->up()
+#6 D:\laragon\www\code\system\Database\MigrationRunner.php(188): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 D:\laragon\www\code\system\Commands\Database\Migrate.php(84): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 D:\laragon\www\code\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 D:\laragon\www\code\system\CLI\Console.php(46): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 D:\laragon\www\code\spark(102): CodeIgniter\CLI\Console->run()
+#11 {main}
+ERROR - 2023-12-12 16:24:50 --> mysqli_sql_exception: Table 'products' already exists in D:\laragon\www\code\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\laragon\www\code\system\Database\MySQLi\Connection.php(306): mysqli->query('CREATE TABLE `p...', 0)
+#1 D:\laragon\www\code\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `p...')
+#2 D:\laragon\www\code\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `p...')
+#3 D:\laragon\www\code\system\Database\Forge.php(546): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `p...')
+#4 D:\laragon\www\code\app\Database\Migrations\2023-12-10-065845_Products.php(29): CodeIgniter\Database\Forge->createTable('products')
+#5 D:\laragon\www\code\system\Database\MigrationRunner.php(873): App\Database\Migrations\Products->up()
+#6 D:\laragon\www\code\system\Database\MigrationRunner.php(188): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 D:\laragon\www\code\system\Commands\Database\Migrate.php(84): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 D:\laragon\www\code\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 D:\laragon\www\code\system\CLI\Console.php(46): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 D:\laragon\www\code\spark(102): CodeIgniter\CLI\Console->run()
+#11 {main}
+ERROR - 2023-12-12 16:25:09 --> mysqli_sql_exception: Table 'products' already exists in D:\laragon\www\code\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\laragon\www\code\system\Database\MySQLi\Connection.php(306): mysqli->query('CREATE TABLE `p...', 0)
+#1 D:\laragon\www\code\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `p...')
+#2 D:\laragon\www\code\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `p...')
+#3 D:\laragon\www\code\system\Database\Forge.php(546): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `p...')
+#4 D:\laragon\www\code\app\Database\Migrations\2023-12-10-065845_Products.php(29): CodeIgniter\Database\Forge->createTable('products')
+#5 D:\laragon\www\code\system\Database\MigrationRunner.php(873): App\Database\Migrations\Products->up()
+#6 D:\laragon\www\code\system\Database\MigrationRunner.php(188): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 D:\laragon\www\code\system\Commands\Database\Migrate.php(84): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 D:\laragon\www\code\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 D:\laragon\www\code\system\CLI\BaseCommand.php(115): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 D:\laragon\www\code\system\Commands\Database\MigrateRefresh.php(85): CodeIgniter\CLI\BaseCommand->call('migrate', Array)
+#11 D:\laragon\www\code\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\MigrateRefresh->run(Array)
+#12 D:\laragon\www\code\system\CLI\Console.php(46): CodeIgniter\CLI\Commands->run('migrate:refresh', Array)
+#13 D:\laragon\www\code\spark(102): CodeIgniter\CLI\Console->run()
+#14 {main}
+ERROR - 2023-12-12 16:25:30 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NOT NULL,
+	`password` VARCHAR NOT NULL,
+	`created_at` TIMESTAMP NOT NULL,
+	`upda' at line 4 in D:\laragon\www\code\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\laragon\www\code\system\Database\MySQLi\Connection.php(306): mysqli->query('CREATE TABLE `u...', 0)
+#1 D:\laragon\www\code\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `u...')
+#2 D:\laragon\www\code\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `u...')
+#3 D:\laragon\www\code\system\Database\Forge.php(546): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `u...')
+#4 D:\laragon\www\code\app\Database\Migrations\2023-12-12-162356_Users.php(34): CodeIgniter\Database\Forge->createTable('users')
+#5 D:\laragon\www\code\system\Database\MigrationRunner.php(873): App\Database\Migrations\Users->up()
+#6 D:\laragon\www\code\system\Database\MigrationRunner.php(188): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 D:\laragon\www\code\system\Commands\Database\Migrate.php(84): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 D:\laragon\www\code\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 D:\laragon\www\code\system\CLI\BaseCommand.php(115): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 D:\laragon\www\code\system\Commands\Database\MigrateRefresh.php(85): CodeIgniter\CLI\BaseCommand->call('migrate', Array)
+#11 D:\laragon\www\code\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\MigrateRefresh->run(Array)
+#12 D:\laragon\www\code\system\CLI\Console.php(46): CodeIgniter\CLI\Commands->run('migrate:refresh', Array)
+#13 D:\laragon\www\code\spark(102): CodeIgniter\CLI\Console->run()
+#14 {main}
+ERROR - 2023-12-12 16:26:07 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NOT NULL,
+	`password` VARCHAR NOT NULL,
+	`created_at` TIMESTAMP NOT NULL,
+	`upda' at line 4 in D:\laragon\www\code\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\laragon\www\code\system\Database\MySQLi\Connection.php(306): mysqli->query('CREATE TABLE `u...', 0)
+#1 D:\laragon\www\code\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `u...')
+#2 D:\laragon\www\code\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `u...')
+#3 D:\laragon\www\code\system\Database\Forge.php(546): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `u...')
+#4 D:\laragon\www\code\app\Database\Migrations\2023-12-12-162356_Users.php(34): CodeIgniter\Database\Forge->createTable('users')
+#5 D:\laragon\www\code\system\Database\MigrationRunner.php(873): App\Database\Migrations\Users->up()
+#6 D:\laragon\www\code\system\Database\MigrationRunner.php(188): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 D:\laragon\www\code\system\Commands\Database\Migrate.php(84): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 D:\laragon\www\code\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 D:\laragon\www\code\system\CLI\Console.php(46): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 D:\laragon\www\code\spark(102): CodeIgniter\CLI\Console->run()
+#11 {main}
+INFO - 2023-12-12 16:27:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-12-12 16:27:07 --> mysqli_sql_exception: Unknown column 'created_at' in 'field list' in D:\laragon\www\code\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\laragon\www\code\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pr...', 0)
+#1 D:\laragon\www\code\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 D:\laragon\www\code\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 D:\laragon\www\code\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 D:\laragon\www\code\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\laragon\www\code\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 D:\laragon\www\code\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 D:\laragon\www\code\app\Controllers\Task.php(36): CodeIgniter\Model->insert(Object(App\Entities\Task))
+#8 D:\laragon\www\code\system\CodeIgniter.php(942): App\Controllers\Task->newTask()
+#9 D:\laragon\www\code\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Task))
+#10 D:\laragon\www\code\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\laragon\www\code\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 D:\laragon\www\code\system\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2023-12-12 16:27:07 --> Unknown column 'created_at' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `products` (`name`, `price`, `desc`, `created_at`, `updated_at`) VALUES (:name:, :price:, :desc:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Task.php(36): CodeIgniter\Model->insert(Object(App\Entities\Task))
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Task->newTask()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Task))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+INFO - 2023-12-12 16:27:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 16:27:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 16:31:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 16:33:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 16:35:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 16:35:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 16:36:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 16:36:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-12-12 16:36:43 --> mysqli_sql_exception: Duplicate entry '0' for key 'users.PRIMARY' in D:\laragon\www\code\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\laragon\www\code\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `us...', 0)
+#1 D:\laragon\www\code\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 D:\laragon\www\code\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 D:\laragon\www\code\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 D:\laragon\www\code\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\laragon\www\code\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 D:\laragon\www\code\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 D:\laragon\www\code\app\Controllers\Task.php(80): CodeIgniter\Model->insert(Object(App\Entities\Task))
+#8 D:\laragon\www\code\system\CodeIgniter.php(942): App\Controllers\Task->registerMethod()
+#9 D:\laragon\www\code\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Task))
+#10 D:\laragon\www\code\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\laragon\www\code\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 D:\laragon\www\code\system\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2023-12-12 16:36:43 --> Duplicate entry '0' for key 'users.PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`name`, `email`, `password`, `created_at`, `updated_at`) VALUES (:name:, :email:, :password:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Task.php(80): CodeIgniter\Model->insert(Object(App\Entities\Task))
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Task->registerMethod()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Task))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+INFO - 2023-12-12 16:37:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 16:37:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 16:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 16:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-12-12 16:37:44 --> mysqli_sql_exception: Duplicate entry '0' for key 'users.PRIMARY' in D:\laragon\www\code\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\laragon\www\code\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `us...', 0)
+#1 D:\laragon\www\code\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 D:\laragon\www\code\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 D:\laragon\www\code\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 D:\laragon\www\code\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\laragon\www\code\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 D:\laragon\www\code\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 D:\laragon\www\code\app\Controllers\Task.php(80): CodeIgniter\Model->insert(Object(App\Entities\Task))
+#8 D:\laragon\www\code\system\CodeIgniter.php(942): App\Controllers\Task->registerMethod()
+#9 D:\laragon\www\code\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Task))
+#10 D:\laragon\www\code\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\laragon\www\code\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 D:\laragon\www\code\system\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2023-12-12 16:37:44 --> Duplicate entry '0' for key 'users.PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`name`, `email`, `password`, `created_at`, `updated_at`) VALUES (:name:, :email:, :password:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Task.php(80): CodeIgniter\Model->insert(Object(App\Entities\Task))
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Task->registerMethod()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Task))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+INFO - 2023-12-12 16:38:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 16:38:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 16:38:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 16:38:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 16:40:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 16:41:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 16:41:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 16:43:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
