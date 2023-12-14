@@ -9,10 +9,10 @@ use CodeIgniter\Router\RouteCollection;
  */
 $routes->get('/', 'Home::index');
 $routes->get('/task/(:segment)', [Task::class, 'index'], ['filter' => 'AuthFilter']);
-$routes->get('/task', [Task::class, 'pageNew']);
-$routes->post('/task', [Task::class, 'newTask']);
-$routes->get('/task/edit/(:num)', [Task::class, 'editTask']);
-$routes->post('/task/edit/(:num)', [Task::class, 'editTaskPost']);
+$routes->get('/task', [Task::class, 'pageNew'], ['filter' => 'AuthFilter']);
+$routes->post('/task', [Task::class, 'newTask'], ['filter' => 'AuthFilter']);
+$routes->get('/task/edit/(:num)', [Task::class, 'editTask'], ['filter' => 'AuthFilter']);
+$routes->post('/task/edit/(:num)', [Task::class, 'editTaskPost'], ['filter' => 'AuthFilter']);
 
 $routes->get('/register', [Auth::class, 'registerPage']);
 $routes->post('/register', [Auth::class, 'registerMethod']);

@@ -6,7 +6,7 @@ class Products extends Model
 {
     protected $table = "products";
 
-    protected $allowedFields = ['name', 'price', 'desc'];
+    protected $allowedFields = ['name', 'price', 'desc', 'user_id'];
 
     protected $returnType = 'App\Entities\Task';
 

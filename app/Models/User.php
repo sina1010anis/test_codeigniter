@@ -24,7 +24,7 @@ class User extends Model
     ];
 
     protected $beforeInsert = ['setPassword'];
-
+    
     public function setPassword(array|string $data) : array|string
     {
         if (is_array($data)) {
