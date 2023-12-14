@@ -3,6 +3,8 @@
 declare(strict_types=1);
 
 namespace App\Models;
+
+use App\Entities\Task;
 use CodeIgniter\Model;
 
 class User extends Model
@@ -23,9 +25,23 @@ class User extends Model
 
     protected $beforeInsert = ['setPassword'];
 
-    protected function setPassword(array $data)
+    public function setPassword(array|string $data) : array|string
     {
-        $data['data']['password'] = password_hash($data['data']['password'], PASSWORD_DEFAULT);
+        if (is_array($data)) {
+
+            $data['data']['password'] = md5($data['data']['password']);
+
+        } else if (is_string($data)) {
+
+            $data = md5($data);
+
+        }
+        
         return $data;
+    }
+
+    public function getUserForEmailAndPassword($email, $password) :Task|null
+    {
+        return $this->where(['email' => $email, 'password' => $password])->first();
     }
 }

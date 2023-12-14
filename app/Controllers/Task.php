@@ -8,7 +8,7 @@ use CodeIgniter\Controller;
 use CodeIgniter\Exceptions\PageNotFoundException;
 use \Config\Services;
 
-class Task extends Controller 
+class Task extends BaseController 
 {
     public function index($id)
     {
@@ -66,28 +66,5 @@ class Task extends Controller
             return redirect()->back()->with('ok', 'ok');
         }
     }
-
-    public function registerPage()
-    {
-        return view('Auth/Register');
-  
-    }
-
-    public function loginPage()
-    {
-        return view('Auth/Login');
-  
-    }
     
-    public function registerMethod()
-    {
-        $user = new User();
-        $e = new \App\Entities\Task(Services::request()->getVar());
-        if ($user->insert($e)) {
-            return redirect()->back()->with('ok', 'ok');
-        } else {
-            return redirect()->back()->with('error', $user->errors());
-        } 
-    }
-
 }
