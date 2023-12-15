@@ -29,7 +29,7 @@ abstract class Auth extends BaseController
 
     public function user()
     {
-
+        
         return $this->model_user->where('id', session()->get('user_id'))->first();
 
     }

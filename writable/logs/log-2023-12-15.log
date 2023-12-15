@@ -1,0 +1,175 @@
+INFO - 2023-12-15 11:09:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-15 11:09:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-15 11:10:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-15 11:10:23 --> Attempt to read property "name" on null
+in APPPATH\Views\index\hello.php on line 3.
+ 1 APPPATH\Views\index\hello.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on null', 'D:\\laragon\\www\\code\\app\\Views\\index\\hello.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\laragon\\www\\code\\app\\Views\\index\\hello.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('index/hello', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('index/hello')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+INFO - 2023-12-15 11:12:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-15 11:12:33 --> Attempt to read property "name" on null
+in APPPATH\Views\index\hello.php on line 3.
+ 1 APPPATH\Views\index\hello.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on null', 'D:\\laragon\\www\\code\\app\\Views\\index\\hello.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\laragon\\www\\code\\app\\Views\\index\\hello.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('index/hello', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('index/hello')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+INFO - 2023-12-15 11:12:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-15 11:12:34 --> Attempt to read property "name" on null
+in APPPATH\Views\index\hello.php on line 3.
+ 1 APPPATH\Views\index\hello.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on null', 'D:\\laragon\\www\\code\\app\\Views\\index\\hello.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\laragon\\www\\code\\app\\Views\\index\\hello.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('index/hello', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('index/hello')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+INFO - 2023-12-15 11:12:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-15 11:12:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-15 11:12:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-15 11:12:39 --> Attempt to read property "name" on null
+in APPPATH\Views\index\hello.php on line 3.
+ 1 APPPATH\Views\index\hello.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on null', 'D:\\laragon\\www\\code\\app\\Views\\index\\hello.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\laragon\\www\\code\\app\\Views\\index\\hello.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('index/hello', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('index/hello')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+INFO - 2023-12-15 11:13:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-15 11:13:05 --> Attempt to read property "name" on null
+in APPPATH\Views\index\hello.php on line 3.
+ 1 APPPATH\Views\index\hello.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on null', 'D:\\laragon\\www\\code\\app\\Views\\index\\hello.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\laragon\\www\\code\\app\\Views\\index\\hello.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('index/hello', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('index/hello')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+INFO - 2023-12-15 11:13:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-15 11:13:30 --> Attempt to read property "name" on null
+in APPPATH\Views\index\hello.php on line 3.
+ 1 APPPATH\Views\index\hello.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on null', 'D:\\laragon\\www\\code\\app\\Views\\index\\hello.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\laragon\\www\\code\\app\\Views\\index\\hello.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('index/hello', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('index/hello')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+INFO - 2023-12-15 11:13:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-15 11:13:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-15 11:13:40 --> Attempt to read property "name" on null
+in APPPATH\Views\index\hello.php on line 3.
+ 1 APPPATH\Views\index\hello.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on null', 'D:\\laragon\\www\\code\\app\\Views\\index\\hello.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\laragon\\www\\code\\app\\Views\\index\\hello.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('index/hello', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('index/hello')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+CRITICAL - 2023-12-15 11:13:58 --> Attempt to read property "name" on null
+in APPPATH\Views\index\hello.php on line 3.
+ 1 APPPATH\Views\index\hello.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on null', 'D:\\laragon\\www\\code\\app\\Views\\index\\hello.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\laragon\\www\\code\\app\\Views\\index\\hello.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('index/hello', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('index/hello')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+INFO - 2023-12-15 11:14:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-15 11:14:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-15 11:14:03 --> Attempt to read property "name" on null
+in APPPATH\Views\index\hello.php on line 3.
+ 1 APPPATH\Views\index\hello.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on null', 'D:\\laragon\\www\\code\\app\\Views\\index\\hello.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\laragon\\www\\code\\app\\Views\\index\\hello.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('index/hello', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('index/hello')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+CRITICAL - 2023-12-15 11:14:30 --> Login ...!
+in APPPATH\Libraries\Auth.php on line 32.
+ 1 APPPATH\Views\index\hello.php(3): App\Libraries\Auth->user()
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\laragon\\www\\code\\app\\Views\\index\\hello.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('index/hello', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('index/hello')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+INFO - 2023-12-15 11:14:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-15 11:14:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-15 11:15:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-15 11:15:20 --> Attempt to read property "name" on null
+in APPPATH\Views\index\hello.php on line 3.
+ 1 APPPATH\Views\index\hello.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on null', 'D:\\laragon\\www\\code\\app\\Views\\index\\hello.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\laragon\\www\\code\\app\\Views\\index\\hello.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('index/hello', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('index/hello')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+INFO - 2023-12-15 11:16:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-15 11:16:50 --> Undefined property: CodeIgniter\HTTP\RedirectResponse::$name
+in APPPATH\Views\index\hello.php on line 3.
+ 1 APPPATH\Views\index\hello.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\HTTP\\RedirectResponse::$name', 'D:\\laragon\\www\\code\\app\\Views\\index\\hello.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\laragon\\www\\code\\app\\Views\\index\\hello.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('index/hello', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('index/hello')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
+INFO - 2023-12-15 11:17:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-15 11:17:19 --> Attempt to read property "name" on null
+in APPPATH\Views\index\hello.php on line 3.
+ 1 APPPATH\Views\index\hello.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on null', 'D:\\laragon\\www\\code\\app\\Views\\index\\hello.php', 3)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\laragon\\www\\code\\app\\Views\\index\\hello.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('index/hello', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('index/hello')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\code\\public\\index.php')
