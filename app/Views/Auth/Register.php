@@ -20,6 +20,8 @@
                         </div>
                 <?php endif; ?>
                 <form action="/register" method="post">
+                <h4>Regsiter</h4>
+
                     <?= csrf_field() ?>
                     <div class="mb-3">
                         <label for="exampleInputEmail1" class="form-label">Name </label>

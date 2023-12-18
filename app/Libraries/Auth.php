@@ -10,6 +10,7 @@ use App\Models\User;
 abstract class Auth extends BaseController
 {
 
+    private $token;
     protected $model_user;
     public function __construct()
     {
@@ -45,5 +46,22 @@ abstract class Auth extends BaseController
         
         return redirect()->to('/');
 
+    }
+
+    public function redirectRestPassword()
+    {
+        return view('Auth/RestPassword');
+    }
+
+    protected function buildTokenForRestPassword() :self
+    {
+        $this->token = rand(1000000, 9999999);
+
+        return $this;
+    }
+
+    public function getToken()
+    {
+        return $this->token;
     }
 }

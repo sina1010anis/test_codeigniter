@@ -4,6 +4,8 @@ namespace App\Libraries;
 
 use Config\Services;
 use \App\Entities\Task;
+use App\Libraries\Email\BuilderMail;
+use App\Libraries\Email\Mail;
 
 class Authrization extends Auth
 {
@@ -53,5 +55,29 @@ class Authrization extends Auth
     public function logout()
     {
         return $this->destroySession();
+    }
+
+    public function restPassword($email)
+    {
+        
+        if ($email != null) {
+
+            $this->buildTokenForRestPassword();
+            
+            $user = $this->model_user->getUserForEmail($email);
+
+            $this->model_user->update($user->id, [
+
+                'token_password' => $this->getToken(),
+
+                'token_exp' => time() + 300,
+
+            ]);
+
+            $email = new BuilderMail(new Mail(), request()->getVar('email'), 'Rest Password', 'Ok => '.$this->getToken());
+
+            return $email->builder();
+
+        }
     }
 }

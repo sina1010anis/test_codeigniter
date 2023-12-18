@@ -13,7 +13,7 @@ class User extends Model
 
     protected $useTimestamps = true;
 
-    protected $allowedFields = ['name', 'email', 'password'];
+    protected $allowedFields = ['name', 'email', 'password', 'token_password', 'token_exp'];
 
     protected $returnType = 'App\Entities\Task';
 
@@ -43,5 +43,10 @@ class User extends Model
     public function getUserForEmailAndPassword($email, $password) :Task|null
     {
         return $this->where(['email' => $email, 'password' => $password])->first();
+    }
+
+    public function getUserForEmail($email) :Task|null
+    {
+        return $this->where(['email' => $email])->first();
     }
 }

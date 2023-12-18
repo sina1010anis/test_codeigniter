@@ -22,6 +22,10 @@
                     
                 <?php if (!session()->has('user_id')): ?>
                     <form action="/login" method="post">
+                    <h4>Login</h4>
+
+                    <?= csrf_field() ?>
+
                         <div class="mb-3">
                             <label for="exampleInputEmail1" class="form-label">Email Address </label>
                             <input type="text" class="form-control" id="exampleInputEmail1" name="email" aria-describedby="emailHelp" value="<?= old('email') ?>">
@@ -32,6 +36,7 @@
                         </div>
                         <button type="submit" class="btn btn-primary">Submit</button>
                     </form>
+                    <a href="/rest-password">Rest password</a>
                 <?php endif; ?>
             </div>
         </div>

@@ -8,6 +8,7 @@
 
         <p><?= $tasks->name ?></p>
     <a href="/task/edit/<?= $tasks->id ?>">Edit</a>
+    
 
 <?= $this->endSection() ?>
 
