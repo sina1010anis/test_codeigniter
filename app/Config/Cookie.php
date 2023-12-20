@@ -14,7 +14,7 @@ class Cookie extends BaseConfig
      *
      * Set a cookie name prefix if you need to avoid collisions.
      */
-    public string $prefix = '';
+    public string $prefix = 'some_';
 
     /**
      * --------------------------------------------------------------------------
@@ -27,7 +27,7 @@ class Cookie extends BaseConfig
      *
      * @var DateTimeInterface|int|string
      */
-    public $expires = 0;
+    public $expires = 7200;
 
     /**
      * --------------------------------------------------------------------------

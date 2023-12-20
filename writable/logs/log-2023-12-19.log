@@ -1,0 +1,812 @@
+INFO - 2023-12-19 15:21:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:22:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:22:21 --> CSRF token verified.
+INFO - 2023-12-19 15:22:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:22:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:22:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:22:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:23:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:23:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:23:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:24:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:24:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:24:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:24:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:24:29 --> CSRF token verified.
+INFO - 2023-12-19 15:24:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:24:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:24:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:24:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:24:51 --> CSRF token verified.
+INFO - 2023-12-19 15:24:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:24:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:24:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:25:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:26:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:27:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:27:22 --> CSRF token verified.
+INFO - 2023-12-19 15:27:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:27:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:27:27 --> CSRF token verified.
+INFO - 2023-12-19 15:27:36 --> CSRF token verified.
+INFO - 2023-12-19 15:27:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:27:39 --> CSRF token verified.
+INFO - 2023-12-19 15:27:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:27:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:35:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:35:53 --> CSRF token verified.
+INFO - 2023-12-19 15:36:12 --> CSRF token verified.
+INFO - 2023-12-19 15:51:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:51:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:51:45 --> CSRF token verified.
+INFO - 2023-12-19 15:51:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:51:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:51:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:52:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:52:39 --> CSRF token verified.
+INFO - 2023-12-19 15:52:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:53:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:53:08 --> CSRF token verified.
+INFO - 2023-12-19 15:53:50 --> CSRF token verified.
+INFO - 2023-12-19 15:53:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:53:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:54:03 --> CSRF token verified.
+INFO - 2023-12-19 15:54:06 --> CSRF token verified.
+INFO - 2023-12-19 15:54:38 --> CSRF token verified.
+CRITICAL - 2023-12-19 15:55:11 --> A void function must not return a value
+in APPPATH\Libraries\Auth.php on line 77.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-12-19 15:55:15 --> A void function must not return a value
+in APPPATH\Libraries\Auth.php on line 77.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2023-12-19 15:55:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:55:28 --> CSRF token verified.
+INFO - 2023-12-19 15:56:25 --> CSRF token verified.
+INFO - 2023-12-19 15:56:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:56:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 15:56:29 --> CSRF token verified.
+INFO - 2023-12-19 15:57:01 --> CSRF token verified.
+INFO - 2023-12-19 15:57:13 --> CSRF token verified.
+INFO - 2023-12-19 15:57:20 --> CSRF token verified.
+INFO - 2023-12-19 15:57:40 --> CSRF token verified.
+INFO - 2023-12-19 16:00:40 --> CSRF token verified.
+INFO - 2023-12-19 16:06:45 --> CSRF token verified.
+INFO - 2023-12-19 16:07:02 --> CSRF token verified.
+INFO - 2023-12-19 16:11:04 --> CSRF token verified.
+INFO - 2023-12-19 16:11:55 --> CSRF token verified.
+INFO - 2023-12-19 16:11:59 --> CSRF token verified.
+INFO - 2023-12-19 16:12:01 --> CSRF token verified.
+INFO - 2023-12-19 16:15:10 --> CSRF token verified.
+CRITICAL - 2023-12-19 16:15:13 --> The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('login', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 16:15:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:15:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:15:20 --> CSRF token verified.
+INFO - 2023-12-19 16:15:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:15:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:15:43 --> CSRF token verified.
+INFO - 2023-12-19 16:15:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:15:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:15:58 --> CSRF token verified.
+INFO - 2023-12-19 16:16:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:16:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:16:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:16:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:16:19 --> CSRF token verified.
+INFO - 2023-12-19 16:17:02 --> CSRF token verified.
+INFO - 2023-12-19 16:17:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:17:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:17:06 --> CSRF token verified.
+INFO - 2023-12-19 16:17:45 --> CSRF token verified.
+INFO - 2023-12-19 16:17:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:17:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:17:48 --> CSRF token verified.
+INFO - 2023-12-19 16:17:58 --> CSRF token verified.
+INFO - 2023-12-19 16:17:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:18:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:18:01 --> CSRF token verified.
+INFO - 2023-12-19 16:18:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:18:05 --> CSRF token verified.
+INFO - 2023-12-19 16:18:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:18:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:18:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:18:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:18:32 --> CSRF token verified.
+INFO - 2023-12-19 16:18:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:19:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:19:11 --> CSRF token verified.
+INFO - 2023-12-19 16:21:25 --> CSRF token verified.
+INFO - 2023-12-19 16:22:25 --> CSRF token verified.
+INFO - 2023-12-19 16:22:27 --> CSRF token verified.
+INFO - 2023-12-19 16:22:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:22:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:22:46 --> CSRF token verified.
+INFO - 2023-12-19 16:22:50 --> CSRF token verified.
+INFO - 2023-12-19 16:23:06 --> CSRF token verified.
+INFO - 2023-12-19 16:23:38 --> CSRF token verified.
+INFO - 2023-12-19 16:23:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:23:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:23:42 --> CSRF token verified.
+INFO - 2023-12-19 16:23:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:23:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:24:03 --> CSRF token verified.
+INFO - 2023-12-19 16:24:41 --> CSRF token verified.
+INFO - 2023-12-19 16:24:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:24:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:25:20 --> CSRF token verified.
+INFO - 2023-12-19 16:25:25 --> CSRF token verified.
+INFO - 2023-12-19 16:25:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:26:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:26:06 --> CSRF token verified.
+INFO - 2023-12-19 16:26:11 --> CSRF token verified.
+INFO - 2023-12-19 16:26:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:27:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:27:07 --> CSRF token verified.
+INFO - 2023-12-19 16:27:11 --> CSRF token verified.
+INFO - 2023-12-19 16:27:13 --> CSRF token verified.
+INFO - 2023-12-19 16:27:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:27:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:27:39 --> CSRF token verified.
+CRITICAL - 2023-12-19 16:27:41 --> The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('login', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 16:27:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:27:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:27:46 --> CSRF token verified.
+INFO - 2023-12-19 16:27:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:27:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:28:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:28:21 --> CSRF token verified.
+CRITICAL - 2023-12-19 16:28:23 --> The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('login', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 16:28:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:28:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:28:30 --> CSRF token verified.
+CRITICAL - 2023-12-19 16:28:55 --> The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('login', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 16:28:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:28:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:28:59 --> CSRF token verified.
+CRITICAL - 2023-12-19 16:29:02 --> The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('login', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 16:29:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:29:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:29:07 --> CSRF token verified.
+INFO - 2023-12-19 16:29:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:29:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:29:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:29:25 --> CSRF token verified.
+CRITICAL - 2023-12-19 16:29:27 --> The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('login', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 16:29:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:29:29 --> CSRF token verified.
+INFO - 2023-12-19 16:29:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:29:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:29:33 --> CSRF token verified.
+INFO - 2023-12-19 16:29:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:29:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:29:37 --> CSRF token verified.
+INFO - 2023-12-19 16:29:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:29:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:29:41 --> CSRF token verified.
+INFO - 2023-12-19 16:29:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:29:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:29:44 --> CSRF token verified.
+INFO - 2023-12-19 16:29:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:30:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:30:23 --> CSRF token verified.
+INFO - 2023-12-19 16:30:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:30:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:30:27 --> CSRF token verified.
+INFO - 2023-12-19 16:30:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:30:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:31:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:31:57 --> CSRF token verified.
+INFO - 2023-12-19 16:32:00 --> CSRF token verified.
+INFO - 2023-12-19 16:32:08 --> CSRF token verified.
+INFO - 2023-12-19 16:32:09 --> CSRF token verified.
+INFO - 2023-12-19 16:33:01 --> CSRF token verified.
+CRITICAL - 2023-12-19 16:33:01 --> syntax error, unexpected token ";", expecting ")"
+in APPPATH\Controllers\Auth.php on line 51.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\test_codeigniter\\app\\Controllers\\Auth.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Auth')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Auth')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\Auth', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 16:33:06 --> CSRF token verified.
+INFO - 2023-12-19 16:33:09 --> CSRF token verified.
+INFO - 2023-12-19 16:33:18 --> CSRF token verified.
+INFO - 2023-12-19 16:33:20 --> CSRF token verified.
+INFO - 2023-12-19 16:33:41 --> CSRF token verified.
+INFO - 2023-12-19 16:33:44 --> CSRF token verified.
+INFO - 2023-12-19 16:33:58 --> CSRF token verified.
+INFO - 2023-12-19 16:34:00 --> CSRF token verified.
+INFO - 2023-12-19 16:34:19 --> CSRF token verified.
+CRITICAL - 2023-12-19 16:34:19 --> App\Libraries\Auth::getTokenRemember(): Return value must be of type string, null returned
+in APPPATH\Libraries\Auth.php on line 93.
+ 1 APPPATH\Controllers\Auth.php(53): App\Libraries\Auth->getTokenRemember()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Auth->loginMethod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 16:34:43 --> CSRF token verified.
+INFO - 2023-12-19 16:34:45 --> CSRF token verified.
+INFO - 2023-12-19 16:34:47 --> CSRF token verified.
+INFO - 2023-12-19 16:35:09 --> CSRF token verified.
+INFO - 2023-12-19 16:35:12 --> CSRF token verified.
+INFO - 2023-12-19 16:35:14 --> CSRF token verified.
+INFO - 2023-12-19 16:36:16 --> CSRF token verified.
+INFO - 2023-12-19 16:36:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:36:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:36:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:36:28 --> CSRF token verified.
+INFO - 2023-12-19 16:36:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:36:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:36:35 --> CSRF token verified.
+INFO - 2023-12-19 16:36:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:36:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:37:00 --> CSRF token verified.
+INFO - 2023-12-19 16:37:18 --> CSRF token verified.
+INFO - 2023-12-19 16:37:20 --> CSRF token verified.
+INFO - 2023-12-19 16:37:22 --> CSRF token verified.
+INFO - 2023-12-19 16:37:41 --> CSRF token verified.
+INFO - 2023-12-19 16:37:43 --> CSRF token verified.
+INFO - 2023-12-19 16:38:17 --> CSRF token verified.
+INFO - 2023-12-19 16:38:19 --> CSRF token verified.
+INFO - 2023-12-19 16:38:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:38:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:38:23 --> CSRF token verified.
+INFO - 2023-12-19 16:38:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:38:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:38:26 --> CSRF token verified.
+INFO - 2023-12-19 16:38:28 --> CSRF token verified.
+INFO - 2023-12-19 16:38:30 --> CSRF token verified.
+INFO - 2023-12-19 16:38:51 --> CSRF token verified.
+INFO - 2023-12-19 16:38:53 --> CSRF token verified.
+INFO - 2023-12-19 16:38:58 --> CSRF token verified.
+INFO - 2023-12-19 16:39:01 --> CSRF token verified.
+INFO - 2023-12-19 16:39:30 --> CSRF token verified.
+INFO - 2023-12-19 16:39:32 --> CSRF token verified.
+INFO - 2023-12-19 16:39:43 --> CSRF token verified.
+INFO - 2023-12-19 16:39:46 --> CSRF token verified.
+INFO - 2023-12-19 16:40:09 --> CSRF token verified.
+INFO - 2023-12-19 16:40:11 --> CSRF token verified.
+INFO - 2023-12-19 16:40:13 --> CSRF token verified.
+INFO - 2023-12-19 16:40:15 --> CSRF token verified.
+INFO - 2023-12-19 16:41:04 --> CSRF token verified.
+INFO - 2023-12-19 16:41:06 --> CSRF token verified.
+INFO - 2023-12-19 16:41:08 --> CSRF token verified.
+INFO - 2023-12-19 16:41:18 --> CSRF token verified.
+INFO - 2023-12-19 16:41:20 --> CSRF token verified.
+INFO - 2023-12-19 16:43:28 --> CSRF token verified.
+INFO - 2023-12-19 16:43:44 --> CSRF token verified.
+INFO - 2023-12-19 16:43:46 --> CSRF token verified.
+INFO - 2023-12-19 16:45:21 --> CSRF token verified.
+INFO - 2023-12-19 16:45:23 --> CSRF token verified.
+INFO - 2023-12-19 16:45:25 --> CSRF token verified.
+INFO - 2023-12-19 16:45:27 --> CSRF token verified.
+CRITICAL - 2023-12-19 16:45:40 --> The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('login', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 16:45:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:45:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:45:43 --> CSRF token verified.
+INFO - 2023-12-19 16:45:46 --> CSRF token verified.
+INFO - 2023-12-19 16:46:03 --> CSRF token verified.
+INFO - 2023-12-19 16:46:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:46:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 16:46:10 --> CSRF token verified.
+INFO - 2023-12-19 16:46:14 --> CSRF token verified.
+INFO - 2023-12-19 16:46:15 --> CSRF token verified.
+INFO - 2023-12-19 16:46:17 --> CSRF token verified.
+INFO - 2023-12-19 16:46:32 --> CSRF token verified.
+INFO - 2023-12-19 16:47:19 --> CSRF token verified.
+INFO - 2023-12-19 16:47:21 --> CSRF token verified.
+INFO - 2023-12-19 16:47:23 --> CSRF token verified.
+INFO - 2023-12-19 17:24:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 17:24:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 17:24:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 17:24:23 --> CSRF token verified.
+INFO - 2023-12-19 17:24:41 --> CSRF token verified.
+INFO - 2023-12-19 17:24:43 --> CSRF token verified.
+INFO - 2023-12-19 17:25:02 --> CSRF token verified.
+INFO - 2023-12-19 17:25:04 --> CSRF token verified.
+INFO - 2023-12-19 17:25:36 --> CSRF token verified.
+INFO - 2023-12-19 17:25:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 17:25:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 17:25:38 --> CSRF token verified.
+INFO - 2023-12-19 17:25:41 --> CSRF token verified.
+INFO - 2023-12-19 17:25:43 --> CSRF token verified.
+INFO - 2023-12-19 17:25:45 --> CSRF token verified.
+INFO - 2023-12-19 17:27:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 17:27:05 --> CSRF token verified.
+INFO - 2023-12-19 17:27:08 --> CSRF token verified.
+INFO - 2023-12-19 17:27:11 --> CSRF token verified.
+INFO - 2023-12-19 17:55:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 17:55:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 17:56:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 17:56:26 --> CSRF token verified.
+INFO - 2023-12-19 17:56:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 17:56:33 --> CSRF token verified.
+INFO - 2023-12-19 17:56:36 --> CSRF token verified.
+INFO - 2023-12-19 17:56:38 --> CSRF token verified.
+CRITICAL - 2023-12-19 17:57:33 --> Constant expression contains invalid operations
+in APPPATH\Config\Cookie.php on line 30.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-12-19 17:57:33 --> Class "Config\Cookie" not found
+in SYSTEMPATH\Config\Factories.php on line 221.
+ 1 SYSTEMPATH\Config\Factories.php(171): CodeIgniter\Config\Factories::createInstance('config', 'Config\\Cookie', [])
+ 2 SYSTEMPATH\Common.php(217): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 3 SYSTEMPATH\HTTP\Response.php(163): config('Config\\Cookie')
+ 4 SYSTEMPATH\Config\Services.php(585): CodeIgniter\HTTP\Response->__construct(Object(Config\App))
+ 5 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::response(Object(Config\App), false)
+ 6 SYSTEMPATH\Config\BaseService.php(199): CodeIgniter\Config\BaseService::__callStatic('response', [...])
+ 7 SYSTEMPATH\Config\Services.php(580): CodeIgniter\Config\BaseService::getSharedInstance('response', null)
+ 8 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::response()
+ 9 SYSTEMPATH\Debug\Exceptions.php(138): CodeIgniter\Config\BaseService::__callStatic('response', [])
+10 SYSTEMPATH\Debug\Exceptions.php(238): CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+11 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-12-19 17:58:01 --> The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('login', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 17:58:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 17:58:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 17:58:09 --> CSRF token verified.
+INFO - 2023-12-19 17:58:12 --> CSRF token verified.
+CRITICAL - 2023-12-19 18:04:16 --> The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('login', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 18:04:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:04:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:04:21 --> CSRF token verified.
+INFO - 2023-12-19 18:04:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:04:25 --> CSRF token verified.
+INFO - 2023-12-19 18:04:27 --> CSRF token verified.
+INFO - 2023-12-19 18:04:30 --> CSRF token verified.
+INFO - 2023-12-19 18:04:54 --> CSRF token verified.
+INFO - 2023-12-19 18:06:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:06:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:06:28 --> CSRF token verified.
+CRITICAL - 2023-12-19 18:07:00 --> The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('login', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 18:07:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:07:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:07:06 --> CSRF token verified.
+CRITICAL - 2023-12-19 18:07:23 --> The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('login', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 18:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:08:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:08:35 --> CSRF token verified.
+CRITICAL - 2023-12-19 18:08:35 --> Undefined array key "rem"
+in APPPATH\Controllers\Auth.php on line 55.
+ 1 APPPATH\Controllers\Auth.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "rem"', 'C:\\laragon\\www\\test_codeigniter\\app\\Controllers\\Auth.php', 55)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Auth->loginMethod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 18:09:36 --> CSRF token verified.
+INFO - 2023-12-19 18:09:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:09:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:09:43 --> CSRF token verified.
+CRITICAL - 2023-12-19 18:10:24 --> The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('login', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 18:10:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:10:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:10:29 --> CSRF token verified.
+CRITICAL - 2023-12-19 18:11:18 --> The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('login', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 18:11:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:11:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:11:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:11:27 --> CSRF token verified.
+INFO - 2023-12-19 18:11:44 --> CSRF token verified.
+INFO - 2023-12-19 18:11:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:11:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:11:50 --> CSRF token verified.
+INFO - 2023-12-19 18:11:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:11:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:11:57 --> CSRF token verified.
+INFO - 2023-12-19 18:12:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:12:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:12:17 --> CSRF token verified.
+INFO - 2023-12-19 18:12:20 --> CSRF token verified.
+INFO - 2023-12-19 18:12:22 --> CSRF token verified.
+INFO - 2023-12-19 18:12:36 --> CSRF token verified.
+CRITICAL - 2023-12-19 18:12:39 --> The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('login', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 18:12:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:12:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:12:44 --> CSRF token verified.
+INFO - 2023-12-19 18:12:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:12:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:12:59 --> CSRF token verified.
+INFO - 2023-12-19 18:13:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:13:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:13:04 --> CSRF token verified.
+INFO - 2023-12-19 18:13:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:14:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:14:39 --> CSRF token verified.
+INFO - 2023-12-19 18:14:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:14:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:14:48 --> CSRF token verified.
+INFO - 2023-12-19 18:14:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:14:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:16:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:16:06 --> CSRF token verified.
+INFO - 2023-12-19 18:16:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:16:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:16:12 --> CSRF token verified.
+CRITICAL - 2023-12-19 18:16:14 --> The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('login', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 18:16:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:16:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:16:35 --> CSRF token verified.
+INFO - 2023-12-19 18:16:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:19:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:19:40 --> CSRF token verified.
+INFO - 2023-12-19 18:19:44 --> CSRF token verified.
+INFO - 2023-12-19 18:19:47 --> CSRF token verified.
+INFO - 2023-12-19 18:20:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:20:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:20:20 --> CSRF token verified.
+INFO - 2023-12-19 18:20:25 --> CSRF token verified.
+INFO - 2023-12-19 18:20:28 --> CSRF token verified.
+INFO - 2023-12-19 18:20:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:20:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:36:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:36:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:36:21 --> CSRF token verified.
+INFO - 2023-12-19 18:36:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:36:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:36:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:37:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:37:29 --> CSRF token verified.
+INFO - 2023-12-19 18:37:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:37:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:51:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:52:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:52:15 --> CSRF token verified.
+INFO - 2023-12-19 18:52:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:52:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:52:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:52:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:53:08 --> CSRF token verified.
+INFO - 2023-12-19 18:53:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:53:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:53:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:53:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:53:43 --> CSRF token verified.
+INFO - 2023-12-19 18:53:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-19 18:53:43 --> App\Libraries\Auth::getTokenRemember(): Return value must be of type string, null returned
+in APPPATH\Libraries\Auth.php on line 100.
+ 1 APPPATH\Libraries\Authrization.php(46): App\Libraries\Auth->getTokenRemember()
+ 2 APPPATH\Libraries\Authrization.php(25): App\Libraries\Authrization->remember()
+ 3 APPPATH\Controllers\Auth.php(56): App\Libraries\Authrization->login()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Auth->loginMethod()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 18:54:14 --> CSRF token verified.
+INFO - 2023-12-19 18:54:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:54:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:55:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:55:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:56:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:56:06 --> CSRF token verified.
+INFO - 2023-12-19 18:56:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:56:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:56:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:56:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:56:27 --> CSRF token verified.
+INFO - 2023-12-19 18:56:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:56:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:57:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:57:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:58:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:58:06 --> CSRF token verified.
+INFO - 2023-12-19 18:58:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:58:27 --> CSRF token verified.
+INFO - 2023-12-19 18:58:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-19 18:58:27 --> Array callback must have exactly two elements
+in APPPATH\Libraries\Authrization.php on line 15.
+ 1 APPPATH\Controllers\Auth.php(56): App\Libraries\Authrization->login()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Auth->loginMethod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 18:58:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:58:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 18:58:31 --> CSRF token verified.
+INFO - 2023-12-19 18:58:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-19 18:58:31 --> Array callback must have exactly two elements
+in APPPATH\Libraries\Authrization.php on line 15.
+ 1 APPPATH\Controllers\Auth.php(56): App\Libraries\Authrization->login()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Auth->loginMethod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 18:59:38 --> CSRF token verified.
+INFO - 2023-12-19 18:59:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-19 18:59:38 --> Array callback must have exactly two elements
+in APPPATH\Libraries\Authrization.php on line 15.
+ 1 APPPATH\Controllers\Auth.php(56): App\Libraries\Authrization->login()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Auth->loginMethod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 19:00:21 --> CSRF token verified.
+INFO - 2023-12-19 19:00:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:00:27 --> CSRF token verified.
+INFO - 2023-12-19 19:00:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:01:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:01:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:01:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:01:15 --> CSRF token verified.
+INFO - 2023-12-19 19:01:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:01:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:01:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:01:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:01:31 --> CSRF token verified.
+INFO - 2023-12-19 19:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-19 19:01:31 --> Undefined array key "remember_my_token_user"
+in APPPATH\Libraries\Authrization.php on line 45.
+ 1 APPPATH\Libraries\Authrization.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "remember_my_token_user"', 'C:\\laragon\\www\\test_codeigniter\\app\\Libraries\\Authrization.php', 45)
+ 2 APPPATH\Libraries\Authrization.php(24): App\Libraries\Authrization->remember()
+ 3 APPPATH\Controllers\Auth.php(56): App\Libraries\Authrization->login()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Auth->loginMethod()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 19:01:37 --> CSRF token verified.
+INFO - 2023-12-19 19:01:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:01:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:01:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:05:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:05:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:05:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:05:32 --> CSRF token verified.
+INFO - 2023-12-19 19:05:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:05:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:05:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:05:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:05:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:05:52 --> CSRF token verified.
+INFO - 2023-12-19 19:05:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:05:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:06:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:06:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:06:43 --> CSRF token verified.
+INFO - 2023-12-19 19:06:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:06:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:07:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:07:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:07:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:07:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:07:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:07:27 --> CSRF token verified.
+INFO - 2023-12-19 19:07:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:07:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:08:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:08:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:08:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:08:53 --> CSRF token verified.
+INFO - 2023-12-19 19:08:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:08:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:08:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:09:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:09:12 --> CSRF token verified.
+INFO - 2023-12-19 19:09:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-12-19 19:09:12 --> mysqli_sql_exception: Unknown column 'token_rem' in 'field list' in C:\laragon\www\test_codeigniter\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\test_codeigniter\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `re...', 0)
+#1 C:\laragon\www\test_codeigniter\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `re...')
+#2 C:\laragon\www\test_codeigniter\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `re...')
+#3 C:\laragon\www\test_codeigniter\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `re...', Array, false)
+#4 C:\laragon\www\test_codeigniter\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\laragon\www\test_codeigniter\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\laragon\www\test_codeigniter\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\laragon\www\test_codeigniter\app\Libraries\Auth.php(88): CodeIgniter\Model->insert(Array)
+#8 C:\laragon\www\test_codeigniter\app\Libraries\Authrization.php(41): App\Libraries\Auth->createTokenForRemember('3')
+#9 C:\laragon\www\test_codeigniter\app\Libraries\Authrization.php(24): App\Libraries\Authrization->remember()
+#10 C:\laragon\www\test_codeigniter\app\Controllers\Auth.php(56): App\Libraries\Authrization->login()
+#11 C:\laragon\www\test_codeigniter\system\CodeIgniter.php(942): App\Controllers\Auth->loginMethod()
+#12 C:\laragon\www\test_codeigniter\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#13 C:\laragon\www\test_codeigniter\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 C:\laragon\www\test_codeigniter\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#15 C:\laragon\www\test_codeigniter\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#16 {main}
+CRITICAL - 2023-12-19 19:09:12 --> Unknown column 'token_rem' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `remembers` (`token_rem`, `user_id`, `created_at`, `updated_at`) VALUES (:token_rem:, :user_id:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Libraries\Auth.php(88): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Libraries\Authrization.php(41): App\Libraries\Auth->createTokenForRemember('3')
+ 7 APPPATH\Libraries\Authrization.php(24): App\Libraries\Authrization->remember()
+ 8 APPPATH\Controllers\Auth.php(56): App\Libraries\Authrization->login()
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Auth->loginMethod()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 19:09:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:09:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:09:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:10:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:10:11 --> CSRF token verified.
+INFO - 2023-12-19 19:10:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:10:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:10:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:10:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:10:32 --> CSRF token verified.
+INFO - 2023-12-19 19:10:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-12-19 19:10:32 --> mysqli_sql_exception: Column 'rem_token' cannot be null in C:\laragon\www\test_codeigniter\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\test_codeigniter\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `re...', 0)
+#1 C:\laragon\www\test_codeigniter\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `re...')
+#2 C:\laragon\www\test_codeigniter\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `re...')
+#3 C:\laragon\www\test_codeigniter\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `re...', Array, false)
+#4 C:\laragon\www\test_codeigniter\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\laragon\www\test_codeigniter\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\laragon\www\test_codeigniter\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\laragon\www\test_codeigniter\app\Libraries\Auth.php(88): CodeIgniter\Model->insert(Array)
+#8 C:\laragon\www\test_codeigniter\app\Libraries\Authrization.php(41): App\Libraries\Auth->createTokenForRemember('3')
+#9 C:\laragon\www\test_codeigniter\app\Libraries\Authrization.php(24): App\Libraries\Authrization->remember()
+#10 C:\laragon\www\test_codeigniter\app\Controllers\Auth.php(56): App\Libraries\Authrization->login()
+#11 C:\laragon\www\test_codeigniter\system\CodeIgniter.php(942): App\Controllers\Auth->loginMethod()
+#12 C:\laragon\www\test_codeigniter\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#13 C:\laragon\www\test_codeigniter\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 C:\laragon\www\test_codeigniter\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#15 C:\laragon\www\test_codeigniter\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#16 {main}
+CRITICAL - 2023-12-19 19:10:32 --> Column 'rem_token' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `remembers` (`rem_token`, `user_id`, `created_at`, `updated_at`) VALUES (:rem_token:, :user_id:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Libraries\Auth.php(88): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Libraries\Authrization.php(41): App\Libraries\Auth->createTokenForRemember('3')
+ 7 APPPATH\Libraries\Authrization.php(24): App\Libraries\Authrization->remember()
+ 8 APPPATH\Controllers\Auth.php(56): App\Libraries\Authrization->login()
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Auth->loginMethod()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 19:10:40 --> CSRF token verified.
+INFO - 2023-12-19 19:10:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:10:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:10:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:11:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:11:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:11:27 --> CSRF token verified.
+INFO - 2023-12-19 19:11:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-19 19:11:27 --> Undefined array key "remember_my_token_user"
+in APPPATH\Libraries\Auth.php on line 90.
+ 1 APPPATH\Libraries\Auth.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "remember_my_token_user"', 'C:\\laragon\\www\\test_codeigniter\\app\\Libraries\\Auth.php', 90)
+ 2 APPPATH\Libraries\Authrization.php(41): App\Libraries\Auth->createTokenForRemember('3')
+ 3 APPPATH\Libraries\Authrization.php(24): App\Libraries\Authrization->remember()
+ 4 APPPATH\Controllers\Auth.php(56): App\Libraries\Authrization->login()
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Auth->loginMethod()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\test_codeigniter\\public\\index.php')
+INFO - 2023-12-19 19:11:36 --> CSRF token verified.
+INFO - 2023-12-19 19:11:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:11:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-19 19:12:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

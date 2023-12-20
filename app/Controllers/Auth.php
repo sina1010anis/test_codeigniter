@@ -5,6 +5,8 @@ use App\Libraries\Email\BuilderMail;
 use App\Libraries\Email\Mail;
 use App\Models\User;
 
+
+
 class Auth extends BaseController
 {
     public function registerPage()
@@ -48,7 +50,7 @@ class Auth extends BaseController
 
     public function loginMethod()
     {
-        
+
         if ( ! auth()->check()) {
 
             return auth()->login();
